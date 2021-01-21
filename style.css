@@ -1,0 +1,17 @@
+img{
+    height: 200px;
+    background: rgb(255, 218, 218);
+}
+body{
+    background-color: rgb(125, 149, 253);
+}
+.jumbotron{
+    background-image: url("ad.jpg");
+    color: white;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+}
+.nav-link:hover{
+    color: rgb(0, 0, 0);
+}
